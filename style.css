@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabecalho {
+    background-color: #0B0B0B;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
+}
+.cabecalho-imagem{
+    width: 20%;
+    margin: -100px;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 17px;
+}
+.escola-imagem
+{width: 20%;  margin: 0 1200px; padding: 150px;}
+
+.escola{ background-image: linear-gradient(black,white);}
+ 
+.escola-texto-tres {
+
+    text-align: center;
+    font-size: 30px;
+}
+.escola-imagem-um{
+ width: 10%; 
+}
+ .escola-imagem-dois{
+ width: 10% ; margin: 0 200px; padding: -10px;
+ }
+
+.escola-imagem-tres{
+    width: 10% ;
+}
+.escola-imagem-quatro{
+    width: 10%; margin: 0 200px; padding: -10px;
+}
+.escola-imagem-cinco{
+    width: 5%; padding: 35px;
+}
+
